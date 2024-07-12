@@ -1,0 +1,27 @@
+{
+  "name": "b-web-200-lil-2-1-epytodo-theo.garcia",
+  "version": "1.0.0",
+  "description": "The project idea is to build a Todo List. Thanks to it, you’ll be able to handle all the tasks you need to do easily! We will mainly focus on the “backend” side of the project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EpitechPromo2028/B-WEB-200-LIL-2-1-epytodo-theo.garcia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechPromo2028/B-WEB-200-LIL-2-1-epytodo-theo.garcia/issues"
+  },
+  "homepage": "https://github.com/EpitechPromo2028/B-WEB-200-LIL-2-1-epytodo-theo.garcia#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.7"
+  }
+}
